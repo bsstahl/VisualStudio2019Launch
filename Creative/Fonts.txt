@@ -1,0 +1,8 @@
+Font's used for AZ Event. These are probably not the same as what was used nationally.
+
+Yu Gothic UI Light
+
+Primary Text - 54 Point, Bold
+Secondary Text - 31 Point, Bold
+
+
